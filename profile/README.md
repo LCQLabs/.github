@@ -41,7 +41,7 @@ We welcome contributions from the community! Check individual project repositori
 
 - Website: [https://lcq.gg](https://lcq.gg)
 - Documentation: [https://lcqdocs.site](https://lcqdocs.site)
-- Twitter: [@LCQLabs](https://twitter.com/LCQLabs)
+- Twitter: [@LCQ_AI]([https://x.com/lcq_AI)
 
 ---
 
