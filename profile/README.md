@@ -1,4 +1,4 @@
-# LCQ Labs
+
 
 ![1500x500 (22)](https://github.com/user-attachments/assets/4504fcab-4bc8-4a51-87f1-994125dba553)
 
