@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://lcq.gg">Website</a> •
   <a href="https://lcqdocs.site">Documentation</a> •
-  <a href="https://twitter.com/LCQLabs">Twitter</a> •
-  <a href="https://discord.gg/lcqlabs">Discord</a>
+  <a href="https://x.com/lcq_AI">Twitter</a> •
+  <a href="https://discord.gg/lcq">Discord</a>
 </p>
 
 ## Building AI-Powered Solutions for the Solana Ecosystem
